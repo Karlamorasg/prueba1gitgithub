@@ -1,0 +1,9 @@
+#container-fluid{
+    background-color: bisque;
+    text-align: left;
+}
+
+#container{
+    background-color: aqua;
+    text-align: center;
+}
